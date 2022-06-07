@@ -1,2 +1,4 @@
 # Color-Generator
-Generates new colors using rgba. First "official" web project!
+Generates new colors using rgba. First completed web project!
+## To open:
+Open the latest release and extract zip. Open "index.html"
